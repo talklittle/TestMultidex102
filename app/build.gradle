@@ -30,5 +30,6 @@ dependencies {
     compile 'com.android.support:design:26.+'
     compile 'com.android.support:multidex:1.0.2'
     androidTestCompile 'com.android.support:multidex:1.0.2'
+    androidTestCompile 'com.android.support:multidex-instrumentation:1.0.2'
     testCompile 'junit:junit:4.12'
 }

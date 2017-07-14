@@ -6,3 +6,4 @@ Fix by doing:
 
     compile 'com.android.support:multidex:1.0.2'
     androidTestCompile 'com.android.support:multidex:1.0.2'
+    androidTestCompile 'com.android.support:multidex-instrumentation:1.0.2'
